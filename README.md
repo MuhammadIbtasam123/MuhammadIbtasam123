@@ -2,7 +2,7 @@
 
 Hi there👋
 
-I'm Muihammad 
+I'm Muhammad 
 Ibtasam a Full Stack Web Developer.
 
 
@@ -29,7 +29,7 @@ I am a full-stack web developer with a relentless passion for crafting cutting-e
 - Data Science
 - Artificial Intellignece / Machine Learning
 - Cloud computing
-- Playing Games
+- Travelling
 
 ## ⚙️ Tools & Technologies Used
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="30" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" height="30" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&amp;style=for-the-badge&amp;logo=jquery&amp;logoColor=white" height="30" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" /></a>  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30" /></a>  
