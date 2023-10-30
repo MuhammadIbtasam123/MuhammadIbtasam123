@@ -32,7 +32,7 @@ I am a full-stack web developer with a relentless passion for crafting cutting-e
 - Playing Games
 
 ## ⚙️ Tools & Technologies Used
-<a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white)" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="100" /></a>
 
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 
