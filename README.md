@@ -32,11 +32,13 @@ I am a full-stack web developer with a relentless passion for crafting cutting-e
 - Playing Games
 
 ## ⚙️ Tools & Technologies Used
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="20" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="30" /></a>
 
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" height="30" /></a>
 
-![Jquery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&amp;style=for-the-badge&amp;logo=jquery&amp;logoColor=white)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&amp;style=for-the-badge&amp;logo=jquery&amp;logoColor=white" height="30" /></a>
+
+![Jquery]()
 
 
 ![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E)
